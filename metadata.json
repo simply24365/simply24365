@@ -1,0 +1,6 @@
+{
+  "name": "AI 합격 도우미",
+  "description": "공무원, 공기업 및 국가자격증 시험 합격을 위한 생성형 AI기반 맞춤형 가이드라인 및 모의문제 학습 도우미 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
